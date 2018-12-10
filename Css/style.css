@@ -1,0 +1,200 @@
+@media screen and (max-width: 767px) {
+   
+	.navbar-fixed-top{
+		position: relative;
+	}
+
+}
+
+@media screen and (max-width: 993px) {
+   
+	
+	.textSecond {
+		display: none!important;
+	}
+}
+
+@media screen and (max-width: 585px) {
+   
+   .headerTitle{
+   	font-size: 13px !important;
+   }
+   dd{
+   	font-size: 13px !important;
+   }
+
+   .textFirst {
+   	font-size: 10px !important;
+   }
+
+   .headerWord2 {
+   		font-size: 15px !important;
+   		margin-top: 5px!important;
+   }
+
+   .headerWord{
+   		font-size: 13px !important;
+   }
+	
+}
+
+
+.navbar {
+	margin-bottom: 0px;
+}
+
+.nav-reng{
+	background: white;
+	box-shadow: 5px 5px 2.5px grey;
+}
+
+.ca{
+	margin-right: 16px;
+}
+
+.navWords{
+	font-family: "Times New Roman", Georgia, Serif;
+	letter-spacing: 4px;
+	font-size: 15px; 
+	color: black;
+}
+
+.main{
+	width: 100%;
+	height: inherit;
+	display: inline-block;
+}
+
+.header {
+	max-width:1600px;
+	height: inherit;
+	margin-left: auto;
+    margin-right: auto;
+    position: relative;
+}
+
+
+
+.imageWord{
+	position: absolute;
+	z-index: 1;
+	left: 0;
+    bottom: 0;
+	font-size:40px;
+	opacity: 0.60;
+}
+
+
+.about{
+	max-width: 1000px;
+	height: 650px;
+	/*background: red;*/
+	margin-left: auto;
+	margin-right: auto;
+	margin-top: 80px;
+}
+
+.headerWord{
+	text-align: center;
+	font-size: 30px;
+	letter-spacing: 2px;
+}
+
+.opacity{
+	opacity: 0.70;
+}
+
+.headerWord2{
+	font-size: 15px;
+	letter-spacing: 3px;
+	text-align: center;
+	margin-top: 30px;
+	font-family:"Times New Roman", Georgia, Serif; 
+}
+
+
+.textFirst{
+	font-size: 18px;
+	font-family:"Times New Roman", Georgia, Serif;
+	padding-left: 30px;
+	letter-spacing: 2px;
+	color: black;
+}
+
+.textSecond{
+	font-size: 18px;
+	font-family:"Times New Roman", Georgia, Serif;
+	padding-left: 30px;
+	letter-spacing: 2px;
+	color: grey;
+}
+
+.menu{
+	max-width: 1000px;
+	height: 750px;
+	margin-left: auto;
+	margin-right: auto;
+	margin-top: 80px;
+}
+
+mark{
+	background: lightgrey;
+}
+
+.headerTitle{
+	    font-family: "Playfair Display";
+	letter-spacing: 4px;
+	font-size: 18px;
+	text-align: left;
+}
+
+
+.red{
+	margin-top: 85px;
+	background: lightgrey;
+	height: 1px
+}
+
+
+.contact{
+	max-width: 1000px;
+	height: 670px;
+	/*background: red;*/
+	margin-left: auto;
+	margin-right: auto;
+	/*margin-top: 150px;*/
+	margin-bottom: 150px
+	/*margin-bottom: */
+}
+
+.contact_header{
+	text-align: left;
+	font-size: 36px;
+	font-family: "Playfair Display";
+	letter-spacing: 3px;
+}
+
+.timesNew{
+	font-family: "Times New Roman", Georgia, Serif;
+	letter-spacing: 2px
+}
+
+.grey{
+	color: #607d8b!important;
+}
+
+.footer{
+	width: 100%;
+	height: 150px;
+	background-color:white;
+}
+
+.footerWord{
+	padding-top: 70px;
+	box-sizing: border-box;
+	color: black;
+	font-size: 20px;
+	text-align: center;
+	font-family: "Times New Roman", Georgia, Serif;
+
+}
